@@ -1,0 +1,50 @@
+/* home section */
+@media screen and (max-width: 1174px){
+    
+}
+
+@media screen and (max-width: 1024px){
+   
+}
+
+
+@media screen and (max-width: 988px){
+   .navbar-nav {
+    position: relative;
+    top: 0;
+    transform: inherit;
+    right: 0;
+    width: 100%;
+    background: 
+    #000;
+    z-index: 9;
+}
+    #sync2{
+        display: none;
+    }
+}
+
+@media (max-width: 767.98px) { 
+    
+    .banner .content{
+        height: auto;
+    }
+    .banner .content form {
+        position: relative;
+        top: 0;
+        left: 0;
+        transform: inherit;
+        width: auto;
+    }
+    
+}
+
+@media (max-width: 575.98px) {
+     
+    .header .text{
+        left: 15px;
+    }
+
+@media (max-width: 430px){
+   
+}
